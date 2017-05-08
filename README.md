@@ -1,2 +1,0 @@
-# SolidPrinciples
-Tech.Ed.SolidPrinciples
