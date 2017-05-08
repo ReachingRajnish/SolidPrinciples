@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/packages
+/TechEd.Demo.SolidPrinciples
+/TechEd.Demo.SolidPrinciples.Dip.IoCContainer
+/TechEd.Demo.SolidPrinciples.Dip.Manual
+/TechEd.Demo.SolidPrinciples.Srp
+/TechEd.Demo.SolidPrinciples.Refactored
+/TechEd.Demo.SolidPrinciples.Ocp
+/TechEd.Demo.SolidPrinciples.Lsp.Principles
+/TechEd.Demo.SolidPrinciples.Lsp
+/TechEd.Demo.SolidPrinciples.Isp
+/TechEd.Demo.SolidPrinciples.Dip.ServiceLocator
